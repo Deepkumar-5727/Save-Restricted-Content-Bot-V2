@@ -211,6 +211,7 @@ To run the bot, you'll need to configure a few sensitive variables. Here's how t
    - **What’s fixed**: Buttons for commands like `/start`, `/help`, `/cancel`, and others should now work smoothly.
 **7. Added ytdlp back in this version:**
    - You can use command /dl or /adl for enabling this fill up ytdlp vars i.e. YT_COOKIES and INSTA_COOKIES
+   - you have to rename `ytdl.txt` to `ytdl.py` if want to enable from `devgagan/modules/ytdl.txt`
 
 ### 🛠 Important Changes and Notes
 
